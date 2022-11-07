@@ -45,7 +45,7 @@ export const getDb = async () => {
   const contactDb = await openDB("jate", 1);
 
   // creating a new transaction and specifying the db and data prilvileges
-  const tx = contactDb.transaction("jate", readonly);
+  const tx = contactDb.transaction("jate", "readonly");
 
   // opening the desired object store
   const store = tx.objectStore("jate");
