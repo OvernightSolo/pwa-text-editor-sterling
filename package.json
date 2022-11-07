@@ -1,7 +1,10 @@
 {
   "name": "jate",
   "version": "1.0.0",
-  "description": "",
+  "description": "basic text editor",
+  "engines": {
+    "node": "16.x"
+  },
   "main": "server.js",
   "scripts": {
     "dev": "webpack-dev-server",
