@@ -1,4 +1,4 @@
-# PWA Text EWditor (Sterling)
+# PWA Text Editor (Sterling)
 
 ## 📙 Table of Contents
 
@@ -18,19 +18,27 @@
 
 - [Questions](#questions) 🤔
 
-## Project Desc
+## Project Description
 
-This application is a web text editor where a user can create notes or code snippets with or without an internet connection so that they can reliably retrieve them for later use. The integrated service worker and cache API's ensure that the application will remain fully functional even without an active internet connection. This application allows the user to access visited pages even if the application is offline.
+This application is a web text editor where a user can create notes or code snippets with or without an internet connection so that they can reliably retrieve them for later use. The integrated service worker and cache APIs ensure that the application will remain fully functional even without an active internet connection. This application allows the user to access visited pages even if the application is offline.
 
 GitHub repository URL: https://github.com/OvernightSolo/pwa-text-editor-sterling
 
+Deployed Heroku app: https://pwa-text-editor-sterling.herokuapp.com/
+
 ## Tools
+
+- Node.js
+- Express.js
+- IndexedDB
+- PWA
+- Heroku
 
 ## Installation
 
-- Clone the respository
-- Enter npm install into a command line in the project's root directory
-- Enter npm start
+- Clone the repository
+- Enter `npm install` into a command line in the project's root directory
+- Enter `npm start`
 
 ## Usage
 
