@@ -28,7 +28,15 @@ GitHub repository URL: https://github.com/OvernightSolo/pwa-text-editor-sterling
 
 ## Installation
 
+- Clone the respository
+- Enter npm install into a command line in the project's root directory
+- Enter npm start
+
 ## Usage
+
+Type any code snippet or notes in the editor. The content will be saved in the IndexedDB when the window is unfocused. When you reopen the text editor after closing it, the content in the text editor will be retrieved from the IndexedDB.
+
+If the Install button is clicked, the web application will be downloaded as an icon on your desktop.
 
 ## Contributing
 
