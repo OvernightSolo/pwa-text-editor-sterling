@@ -26,6 +26,8 @@ GitHub repository URL: https://github.com/OvernightSolo/pwa-text-editor-sterling
 
 Deployed Heroku app: https://pwa-text-editor-sterling.herokuapp.com/
 
+![Screenshot of deployed application](./client/src/images/Screenshot%202022-11-12%20133106.png)
+
 ## Tools
 
 - Node.js
